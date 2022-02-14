@@ -1,5 +1,0 @@
-Rendu et peer-évaluation
-Rendez votre travail sur votre dépôt GiT comme d’habitude. Seul le travail présent sur votre dépot sera évalué par Deepthoughts.
-Je vous rappelle qu’exceptionnellement, ce projet sera corrigé uniquement par Deepthoughts. Il n’y aura donc pas de peer-évaluation.
-La seule note acceptable pour réussir ce projet est 100%. Si Deepthoughts vous attribue une note inférieure, c’est que vous avez échoué et que vous devez réessayer de faire mieux en cliquant sur le bouton Retry de votre passage de projet.
-Bon courage à tous et n’oubliez pas votre fichier auteur !
